@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./banner.png.png" width="100%" alt="Banner">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Asma Mushtaq</h1>
 
 <h3 align="center">
